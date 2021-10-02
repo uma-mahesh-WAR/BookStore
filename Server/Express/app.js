@@ -45,7 +45,7 @@ app.use(function (req, res) {
 
 //MongoDB connection
 const mongoose = require("mongoose");
-mongoose.connect("mongodb+srv://UMA:Mahesh@007@uma.qoovu.mongodb.net/MFRP?retryWrites=true&w=majority", {
+mongoose.connect("mongodb+srv://UMA:<password>@uma.qoovu.mongodb.net/myFirstDatabase?retryWrites=true&w=majority", {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
