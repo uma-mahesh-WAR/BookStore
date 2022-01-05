@@ -12,7 +12,7 @@ const About = () => {
       <div className="text-center">
         <h1>About</h1>
         <p>
-          This project was built as MFRP for Cognizant by Uma Maheshwar(873220).
+          This project was built by github.com/uma-mahesh-WAR.
         </p>
       </div>
     </Layout>
